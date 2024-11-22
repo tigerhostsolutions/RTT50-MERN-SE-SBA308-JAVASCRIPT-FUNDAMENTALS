@@ -11,7 +11,7 @@ export const AssignmentGroup = {
     {
       id: 1,
       name: 'Declare a Variable',
-      due_at: '2023-01-25',
+      due_at: '3123-01-25',
       points_possible: 50,
     },
     {
